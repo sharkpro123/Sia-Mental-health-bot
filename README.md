@@ -1,4 +1,6 @@
 #  SIA – Your Friendly Mental Health Buddy 
+<img width="703" height="881" alt="Screenshot 2025-07-30 235639" src="https://github.com/user-attachments/assets/8115c08d-4ac8-4735-a2cf-0dba1acf6c38" />
+
 
 > **“Talk to SIA, lighten your mind.”**  
 
